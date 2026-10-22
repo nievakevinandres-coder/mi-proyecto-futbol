@@ -21,3 +21,14 @@ En desarrollo. Se ha creado el repositorio y se está organizando la informació
 - Los jugadores deben respetar las decisiones del árbitro.
 - El objetivo es marcar más goles que el equipo contrario.
 - No se permite tocar deliberadamente el balón con la mano o el brazo, salvo las excepciones previstas en las reglas.
+
+## Importancia del fútbol
+
+El fútbol es un deporte que fomenta la disciplina, la responsabilidad, la comunicación y el trabajo en equipo. También promueve la actividad física, la convivencia y el respeto por los demás.
+
+## Beneficios de practicar fútbol
+
+- Mejora la resistencia física.
+- Desarrolla la coordinación.
+- Fomenta la colaboración con otras personas.
+- Fortalece la disciplina y la constancia.
