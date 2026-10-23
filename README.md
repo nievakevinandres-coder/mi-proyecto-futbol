@@ -43,3 +43,7 @@ El fútbol es un deporte que fomenta la disciplina, la responsabilidad, la comun
 ## Valores que enseña el fútbol
 
 El fútbol enseña respeto por los compañeros y los rivales, disciplina para entrenar, responsabilidad para cumplir las funciones del equipo y constancia para mejorar.
+
+## Cómo ayuda el fútbol a la comunidad
+
+El fútbol reúne a las personas, promueve la cooperación y crea espacios para compartir. También enseña a trabajar en equipo, respetar a los demás y desarrollar hábitos saludables.
