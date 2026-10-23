@@ -32,3 +32,10 @@ El fútbol es un deporte que fomenta la disciplina, la responsabilidad, la comun
 - Desarrolla la coordinación.
 - Fomenta la colaboración con otras personas.
 - Fortalece la disciplina y la constancia.
+
+## Posiciones de los jugadores
+
+- **Portero:** protege la portería.
+- **Defensas:** ayudan a detener los ataques del equipo contrario.
+- **Centrocampistas:** conectan la defensa con el ataque.
+- **Delanteros:** buscan crear oportunidades y marcar goles.
