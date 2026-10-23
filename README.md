@@ -39,3 +39,7 @@ El fútbol es un deporte que fomenta la disciplina, la responsabilidad, la comun
 - **Defensas:** ayudan a detener los ataques del equipo contrario.
 - **Centrocampistas:** conectan la defensa con el ataque.
 - **Delanteros:** buscan crear oportunidades y marcar goles.
+
+## Valores que enseña el fútbol
+
+El fútbol enseña respeto por los compañeros y los rivales, disciplina para entrenar, responsabilidad para cumplir las funciones del equipo y constancia para mejorar.
